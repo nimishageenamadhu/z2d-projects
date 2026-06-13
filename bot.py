@@ -12,7 +12,7 @@ import requests
 
 from datetime import date
 
-get weather (city="Thiruvananthapuram"):
+get_weather (city="Thiruvananthapuram"):
 
 """Fetch today's weather as a one-line text summary."""
 
