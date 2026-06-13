@@ -1,0 +1,1 @@
+#Pulse Daily Summary bot[![Pulse Daily Summary Bot](https://github.com/nimishageenamadhu/z2d-projects/actions/workflows/daily.yml/badge.svg?branch=master)](https://github.com/nimishageenamadhu/z2d-projects/actions/workflows/daily.yml)
