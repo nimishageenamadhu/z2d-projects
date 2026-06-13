@@ -1,18 +1,8 @@
 import requests
 
-response = requests.get("https://zenquotes.io/api/random", timeout=10)
-
-response.raise_for_status()
-
-data = response.json()
-
-print(data[0]["q"])
-
-import requests
-
 from datetime import date
 
-get_weather (city="Thiruvananthapuram"):
+get_weather (city="Thiruvananthapuram")
 
 """Fetch today's weather as a one-line text summary."""
 
